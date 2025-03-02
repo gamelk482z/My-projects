@@ -1,8 +1,6 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, CallbackContext
-
-API_TOKEN = '8052210056:AAFaGUSy7gkbDhcaSB5CnIDKbB-7Jtc00gQ'
-OWNER_USER_ID = 1982996810
+from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQuer'
+OWNER_USER_ID = 
 CHANNEL_ID = '@Tc689mSqPbQ4MGEy'
 
 manga_chapters = {}
